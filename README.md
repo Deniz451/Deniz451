@@ -10,7 +10,7 @@
 🎮 And have a look at my game dev projects here: [My games](https://deniz451.github.io/game_web)
 
 
-📩 Contact me: deni.resitko@gmail.com
+📩 Contact me: denis.resitko@gmail.com
 
 <br>
 
