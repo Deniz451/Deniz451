@@ -1,4 +1,4 @@
-## Hellooo, I'm Denis
+# Hellooo, I'm Denis
 
 ### 1) IT student 
 ### 2) Casual game dev
